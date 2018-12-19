@@ -1,0 +1,4 @@
+entity\Person.class
+facade\PersonFacade.class
+entity\Person_.class
+facade\IPersonFacade.class
